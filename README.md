@@ -82,4 +82,7 @@ Password：1234
 
 ## Acknowledgements  
 This project builds on the foundational work presented in the paper:  
-L. Yan, Z. Qin, R. Zhang, Y. Li and G. Y. Li, "Resource Allocation for Text Semantic Communications," in *IEEE Wireless Communications Letters*, vol. 11, no. 7, pp. 1394-1398, July 2022, doi: 10.1109/LWC.2022.3170849.
+
+- H. Xie, Z. Qin, G. Y. Li and B. -H. Juang, "Deep Learning Enabled Semantic Communication Systems," in *IEEE Transactions on Signal Processing*, vol. 69, pp. 2663-2675, 2021, doi: [10.1109/TSP.2021.3071210](https://doi.org/10.1109/TSP.2021.3071210).  
+
+The link of this work：[https://github.com/13274086/DeepSC](https://github.com/13274086/DeepSC)
